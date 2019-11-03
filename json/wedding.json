@@ -1,0 +1,14 @@
+[
+	{
+		"id":1,
+		"image":"images/the-bride.jpg",
+		"title":"ely mulyani, SE",
+		"description":"putri bapak siswanto sukirman &<br/>ibu kasmiyah siswanto"
+	},
+	{
+		"id":2,
+		"image":"images/the-groom.jpg",
+		"title":"iwan firmawan, S. Kom",
+		"description":"putra Bapak poniman &<br/>ibu rusyati"
+	}
+]

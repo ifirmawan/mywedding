@@ -1,0 +1,42 @@
+[
+	{
+		"id":1,
+		"title":"Tempat",
+		"description":"**Pasunggingan, RT 23 RW 09** <br/> Kec. Pengadegan Kab. Purbalingga – Jawa Tengah <br/> _(Rumah Mempelai Wanita)_",
+		"url_label":"Buka Map",
+		"url_class":"primary",
+		"url_icon":"location",
+		"url_web":"https://www.google.com/maps?q=-7.393939110552812,109.46710627173661",
+		"url_ios":"https://www.google.com/maps?q=-7.393939110552812,109.46710627173661"
+	},
+	{
+		"id":2,
+		"title":"Hari, Tanggal",
+		"description":"**Minggu, 22 Desember 2019**",
+		"url_label":"Tandai !",
+		"url_class":"secondary",
+		"url_icon":"calendar",
+		"url_web":"https://www.google.com/calendar/render?action=TEMPLATE&text=Ely+and+Iwan+Wedding&location=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%253A%252F%252Fwww.google.com%252Fmaps%253Fq%253D-7.393939110552812%252C109.46710627173661&dates=20191222T010000Z%2F20191222T030000Z",
+		"url_ios":"https://www.dropbox.com/s/wjhl66o1z8hj297/Ely_and_Iwan_Wedding.ics?dl=0&raw=1"
+	},
+	{
+		"id":3,
+		"title":"Acara",
+		"description":"**Akad :** 08:00 s/d 09:00 WIB<br/>**Resepsi :** 13:00 s/d 16:00 WIB",
+		"url_label":"",
+		"url_class":"",
+		"url_icon":"",
+		"url_web":"",
+		"url_ios":""
+	},
+	{
+		"id":4,
+		"title":"Hitungan Mundur",
+		"description":"2019-12-22T02:50:04+07:00",
+		"url_label":"",
+		"url_class":"",
+		"url_icon":"location",
+		"url_web":"",
+		"url_ios":""
+	}
+]

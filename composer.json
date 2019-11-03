@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mobiledetect/mobiledetectlib": "^2.8",
+        "erusev/parsedown": "^1.7"
+    }
+}

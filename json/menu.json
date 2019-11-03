@@ -1,0 +1,39 @@
+[
+	{
+		"title": "Ely & Iwan",
+		"list" : [
+			{
+				"id":"gallery",
+				"label":"Galeri",
+				"url":"#gallery",
+				"file":"slides.php"
+			},
+			{
+				"id":"wedding",
+				"label":"Pernikahan",
+				"url":"#wedding",
+				"file":"wedding.php"
+			},
+			{
+				"id":"info",
+				"label":"Acara",
+				"url":"#info",
+				"file":"information.php"
+			}
+		],
+		"button" : [
+			{
+				"id":1,
+				"label":"Tandai !",
+				"icon":"calendar",
+				"url":"https://www.google.com/calendar/render?action=TEMPLATE&text=Ely+and+Iwan+Wedding&location=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%253A%252F%252Fwww.google.com%252Fmaps%253Fq%253D-7.393939110552812%252C109.46710627173661&dates=20191222T010000Z%2F20191222T030000Z"
+			},
+			{
+				"id":2,
+				"label":"Buka Map",
+				"icon":"location",
+				"url":"https://www.google.com/maps?q=-7.393939110552812,109.46710627173661"
+			}
+		]
+	}
+]
