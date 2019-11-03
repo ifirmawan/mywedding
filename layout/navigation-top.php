@@ -8,7 +8,7 @@ $navigations = $navigations[0];
 	<div class="uk-container uk-container-expand">
 		<nav class="uk-navbar" id="navbar" data-uk-navbar>
 			<div class="uk-navbar-left">
-				<a class="uk-navbar-item uk-logo" href="#">
+				<a class="uk-navbar-item uk-logo" href="/">
 					<strong><?= (isset($navigations['title']))? $navigations['title'] : ''  ?></strong>
 				</a>
 			</div>
